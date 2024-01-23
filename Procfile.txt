@@ -1,1 +1,1 @@
-web: python ZAINU.py
+web: python server1.py
